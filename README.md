@@ -1,0 +1,1 @@
+http://localhost:1337/admin/settings/users-permissions/roles/2
